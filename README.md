@@ -40,3 +40,4 @@ Welcome, coders! This is the final session of our MERN Stack project. In this se
    - Run `npm start` to start the client on `http://localhost:3000`
 
 Now you're all set! Happy coding and building your MERN Stack Job Finder application.
+Thank
